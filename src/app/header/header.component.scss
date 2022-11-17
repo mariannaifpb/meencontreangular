@@ -1,5 +1,25 @@
 .toolbar {
   display: flex;
+  height: 80px;
   justify-content: space-between;
-  background-color:aqua
+  background-color: #c99;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+
+
+}
+header{
+  margin: -10px;
+
+}
+.entrar{
+  margin-right: 20px;
+}
+.button{
+  font-size: large;
+  color: rgb(153, 132, 132);
+}
+button {
+  background-color: rgb(202, 148, 148);
+
 }
