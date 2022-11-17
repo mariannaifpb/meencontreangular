@@ -4,9 +4,10 @@ import { FormsModule } from '@angular/forms';
 import {RouterModule, Routes} from "@angular/router";
 import { AppComponent } from './app.component';
 import {MatIconModule} from '@angular/material/icon';
-import { HelloComponent } from "./hello.component";
 import {MatToolbarModule} from '@angular/material/toolbar';
 import {MatButtonModule} from '@angular/material/button';
+import { HeaderComponent } from './header/header.component';
+import { AppRoutingModule } from './app-routing.module';
 
 const routes: Routes =[
   { path: '', component: HeaderComponent}
@@ -15,13 +16,12 @@ const routes: Routes =[
 @NgModule({
   declarations: [
     AppComponent,
-    HeaderComponent//declaração do módulo criado
+    HeaderComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     MatToolbarModule,
-    HelloComponent,
     FormsModule,
     MatIconModule,
     MatButtonModule
