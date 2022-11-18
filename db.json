@@ -1,0 +1,92 @@
+{
+  "lugares":[
+  {
+  "nome": "supermercado dois irmãos",
+  "endereco": "rua candida ocf luis, 48, joão paulo II",
+  "cidade": "João pessoa",
+  "Estado": "Paraíba",
+  "produto": "Tofu, Aveia, Castanha do pará, Leite integral, Leita de soja"
+  },
+  {
+    "nome": "josilete roupas",
+    "endereco": "rua joão hortencio azevedo, 128, torre",
+    "cidade": "João pessoa",
+    "Estado": "Paraíba",
+    "produto": "Camisa branca de algodão, Calça feminina sustentavel, Blusa de algodão"
+    },
+    {
+      "nome": "Jp produtos naturais",
+      "endereco": "rua maria torre barbosa, 28, bancarios",
+      "cidade": "João pessoa",
+      "Estado": "Paraíba",
+      "produto": "Aveia, Própolis, Mel, Leite vegetal, Castanhas, sabonete vegetal"
+      },
+      {
+        "nome": "Bela natural",
+        "endereco": "rua barão de mamanguape, 15, centro",
+        "cidade": "João pessoa",
+        "Estado": "Paraíba",
+        "produto": "Shampoo sólido de camomila, sabonete vegetal, Pasta de dente carvão ativado, Argila rosa, Argila verde, esponja vegetal,"
+        },
+        {
+          "nome": "Bela natural",
+          "endereco": "rua barão de mamanguape, 15, centro",
+          "cidade": "João pessoa",
+          "Estado": "Paraíba",
+          "produto": "Shampoo sólido de camomila, sabonete vegetal, Pasta de dente carvão ativado, Argila rosa, Argila verde, esponja vegetal,"
+          },
+        {
+            "nome": "Bela natural",
+            "endereco": "rua barão de mamanguape, 15, centro",
+            "cidade": "João pessoa",
+            "Estado": "Paraíba",
+            "produto": "Shampoo sólido de camomila, sabonete vegetal, Pasta de dente carvão ativado, Argila rosa, Argila verde, esponja vegetal,"
+            }
+],
+  "usuarios_cadastrar":[
+    {
+      "nome": " ",
+      "e-mail": " ",
+      "senha":" "
+    },
+    {
+      "nome": " ",
+      "e-mail": " ",
+      "senha":" "
+    },
+    {
+      "nome": " ",
+      "e-mail": " ",
+      "senha":" "
+    },
+    {
+      "nome": " ",
+      "e-mail": " ",
+      "senha":" "
+    }
+
+  ],
+  "usuarios_entrar":[
+    {
+      "nome": "maria",
+      "e-mail": "maria123maria@gmail.com",
+      "senha":"123456 "
+    },
+    {
+      "nome": "jose",
+      "e-mail": "jose_silva@gmail.com",
+      "senha":"josesilva"
+    },
+    {
+      "nome": "paulo",
+      "e-mail": "paulo.pistolinha@gmail.com",
+      "senha":"humhum"
+    },
+    {
+      "nome": "guilherme",
+      "e-mail": "gui_lherme@gmail.com",
+      "senha":"flamengo"
+    }
+  ]
+  
+}
