@@ -4,20 +4,22 @@ import { CommonModule } from '@angular/common';
 import {AngularFireModule} from '@angular/fire';
 import {AngularFirestoreModule} from '@angular/fire/firestore';
 import {AngularFireAuthModule} from '@angular/fire/auth';
-import {AngularFireDatabaseModule} from '@angular/fire/database';
 import { firebaseConfig } from '../../../firebase.config';
+import {AngularFireDatabaseModule} from "@angular/fire/database";
 
+
+// @ts-ignore
 
 @NgModule({
   declarations: [],
   imports: [
     CommonModule,
     AngularFireModule,
-    FirebaseConfig,
+    firebaseConfig,
     AngularFirestoreModule,
     AngularFireAuthModule,
     AngularFireDatabaseModule,
-    AngularFireModule.initializeApp(FirebaseConfig.firebase)
+    AngularFireModule.initializeApp(firebaseConfig.firebase)
 
   ]
 
