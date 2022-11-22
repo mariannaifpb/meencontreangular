@@ -9,7 +9,6 @@
     "@angular/compiler": "14.2.11",
     "@angular/core": "14.2.11",
     "@angular/fire": "^7.4.1",
-    //"@angular/fire/firestore": "*",//
     "@angular/forms": "14.2.11",
     "@angular/material": "^14.2.7",
     "@angular/material/core": "*",
